@@ -1,0 +1,26 @@
+.h3 {
+    text-align: left;
+    color: black;
+}
+
+.h1 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+
+.h3-light {
+    color: black;
+}
+
+.h3-dark {
+    color: white;
+}
+
+.h1-light {
+    color: black;
+}
+
+.h1-dark {
+    color: white;
+}

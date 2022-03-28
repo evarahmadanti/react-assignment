@@ -1,0 +1,29 @@
+ul > li {
+    border: 1px solid black;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    width: 95%;
+    margin-left: 15px;
+}
+
+.li-light {
+    border: 1px solid black;
+}
+
+.li-dark {
+    border: 1px solid white;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 0px;
+    width: 70%;
+    margin: auto;
+    margin-top: 30px;
+}
